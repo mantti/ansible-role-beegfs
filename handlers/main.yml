@@ -1,0 +1,4 @@
+- name: restart beegfs-client
+  service: name=beegfs-client state=restarted
+
+

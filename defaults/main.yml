@@ -1,0 +1,6 @@
+---
+
+beegfs_mounts:
+ - { name: "/data/beegfs", src: "/etc/beegfs/beegfs-client.conf" }
+
+beegfs_server: "beegfs-vma"
